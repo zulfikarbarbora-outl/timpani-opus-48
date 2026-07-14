@@ -1,0 +1,243 @@
+{
+  "library": "timpani",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/timpani",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/timpani-opus-48",
+  "branch": "main",
+  "fileCount": 21,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/",
+  "files": [
+    {
+      "file": "1B_v5_rr1.opus",
+      "name": "1B_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/1B_v5_rr1.opus",
+      "size": 54722,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "1B_v5_rr2.opus",
+      "name": "1B_v5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/1B_v5_rr2.opus",
+      "size": 50283,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "1C_v5_rr1.opus",
+      "name": "1C_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/1C_v5_rr1.opus",
+      "size": 43700,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "1C_v5_rr2.opus",
+      "name": "1C_v5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/1C_v5_rr2.opus",
+      "size": 57375,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "1D_v5_rr1.opus",
+      "name": "1D_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/1D_v5_rr1.opus",
+      "size": 60308,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "1D_v5_rr2.opus",
+      "name": "1D_v5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/1D_v5_rr2.opus",
+      "size": 61877,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "2A_v5_rr1.opus",
+      "name": "2A_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/2A_v5_rr1.opus",
+      "size": 51185,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "2A_v5_rr2.opus",
+      "name": "2A_v5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/2A_v5_rr2.opus",
+      "size": 48099,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "2B_v5_rr1.opus",
+      "name": "2B_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/2B_v5_rr1.opus",
+      "size": 45316,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "2B_v5_rr2.opus",
+      "name": "2B_v5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/2B_v5_rr2.opus",
+      "size": 50060,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "3A_v5_rr1.opus",
+      "name": "3A_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/3A_v5_rr1.opus",
+      "size": 53130,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "3A_v5_rr2.opus",
+      "name": "3A_v5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/3A_v5_rr2.opus",
+      "size": 53926,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "3B_v5_rr1.opus",
+      "name": "3B_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/3B_v5_rr1.opus",
+      "size": 46645,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "3B_v5_rr2.opus",
+      "name": "3B_v5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/3B_v5_rr2.opus",
+      "size": 42394,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "3C_v5_rr1.opus",
+      "name": "3C_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/3C_v5_rr1.opus",
+      "size": 43135,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "3C_v5_rr2.opus",
+      "name": "3C_v5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/3C_v5_rr2.opus",
+      "size": 37484,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "4A_v5_rr1.opus",
+      "name": "4A_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/4A_v5_rr1.opus",
+      "size": 36586,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "4A_v5_rr2.opus",
+      "name": "4A_v5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/4A_v5_rr2.opus",
+      "size": 31957,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "5A_v5_rr1.opus",
+      "name": "5A_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/5A_v5_rr1.opus",
+      "size": 34101,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "5B_v5_rr1.opus",
+      "name": "5B_v5_rr1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/5B_v5_rr1.opus",
+      "size": 16398,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "5B_v5_rr2.opus",
+      "name": "5B_v5_rr2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/timpani-opus-48/main/5B_v5_rr2.opus",
+      "size": 31769,
+      "note": null,
+      "midiNote": null,
+      "velocity": 5,
+      "dynamic": null,
+      "roundRobin": 2
+    }
+  ],
+  "byNote": {}
+}
